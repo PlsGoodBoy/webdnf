@@ -1,0 +1,12 @@
+{
+  "implemented": false,
+  "purpose": "Future standalone portal backend design example only; not loaded by this app",
+  "listenAddress": "127.0.0.1:8080",
+  "apiPrefix": "/api/v1",
+  "gameDataAccess": "read-only",
+  "webSessionIndependentOfGameSession": true,
+  "businessTimezone": null,
+  "businessDayResetTime": null,
+  "checkinEnabled": false,
+  "publicPlayerListEnabled": false
+}
