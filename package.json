@@ -1,0 +1,16 @@
+{
+  "name": "webdnf",
+  "version": "0.1.0",
+  "private": true,
+  "description": "阿拉德档案：独立 DNF 玩家门户静态交互原型",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/preview.mjs",
+    "start": "node scripts/preview.mjs",
+    "test": "node --test",
+    "check": "node scripts/check.mjs && node --test"
+  }
+}
