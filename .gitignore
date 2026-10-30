@@ -1,0 +1,19 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+artifacts/
+.DS_Store
+Thumbs.db
+.openai/
+.codex/
+.aws/
+config/*.local.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# dist/ is the hand-authored static source, not generated output. Keep it tracked.
